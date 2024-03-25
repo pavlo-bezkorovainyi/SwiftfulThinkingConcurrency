@@ -14,6 +14,7 @@
 		D04493EB2BB2082B00BEF58A /* SwiftfulThinkingConcurrencyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D04493EA2BB2082B00BEF58A /* SwiftfulThinkingConcurrencyUITests.swift */; };
 		D04493ED2BB2082B00BEF58A /* SwiftfulThinkingConcurrencyUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D04493EC2BB2082B00BEF58A /* SwiftfulThinkingConcurrencyUITestsLaunchTests.swift */; };
 		D04493FA2BB2096300BEF58A /* DoCatchTryThrowsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D04493F92BB2096300BEF58A /* DoCatchTryThrowsBootcamp.swift */; };
+		D04493FC2BB213DD00BEF58A /* DownloadImageAsync.swift in Sources */ = {isa = PBXBuildFile; fileRef = D04493FB2BB213DD00BEF58A /* DownloadImageAsync.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		D04493EA2BB2082B00BEF58A /* SwiftfulThinkingConcurrencyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulThinkingConcurrencyUITests.swift; sourceTree = "<group>"; };
 		D04493EC2BB2082B00BEF58A /* SwiftfulThinkingConcurrencyUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulThinkingConcurrencyUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		D04493F92BB2096300BEF58A /* DoCatchTryThrowsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoCatchTryThrowsBootcamp.swift; sourceTree = "<group>"; };
+		D04493FB2BB213DD00BEF58A /* DownloadImageAsync.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadImageAsync.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				D04493CF2BB2082A00BEF58A /* SwiftfulThinkingConcurrencyApp.swift */,
 				D04493F92BB2096300BEF58A /* DoCatchTryThrowsBootcamp.swift */,
+				D04493FB2BB213DD00BEF58A /* DownloadImageAsync.swift */,
 				D04493D32BB2082B00BEF58A /* Assets.xcassets */,
 				D04493D52BB2082B00BEF58A /* Preview Content */,
 			);
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D04493FA2BB2096300BEF58A /* DoCatchTryThrowsBootcamp.swift in Sources */,
+				D04493FC2BB213DD00BEF58A /* DownloadImageAsync.swift in Sources */,
 				D04493D02BB2082A00BEF58A /* SwiftfulThinkingConcurrencyApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
