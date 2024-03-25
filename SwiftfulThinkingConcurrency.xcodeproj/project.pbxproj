@@ -8,12 +8,12 @@
 
 /* Begin PBXBuildFile section */
 		D04493D02BB2082A00BEF58A /* SwiftfulThinkingConcurrencyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D04493CF2BB2082A00BEF58A /* SwiftfulThinkingConcurrencyApp.swift */; };
-		D04493D22BB2082A00BEF58A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D04493D12BB2082A00BEF58A /* ContentView.swift */; };
 		D04493D42BB2082B00BEF58A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D04493D32BB2082B00BEF58A /* Assets.xcassets */; };
 		D04493D72BB2082B00BEF58A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D04493D62BB2082B00BEF58A /* Preview Assets.xcassets */; };
 		D04493E12BB2082B00BEF58A /* SwiftfulThinkingConcurrencyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D04493E02BB2082B00BEF58A /* SwiftfulThinkingConcurrencyTests.swift */; };
 		D04493EB2BB2082B00BEF58A /* SwiftfulThinkingConcurrencyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D04493EA2BB2082B00BEF58A /* SwiftfulThinkingConcurrencyUITests.swift */; };
 		D04493ED2BB2082B00BEF58A /* SwiftfulThinkingConcurrencyUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D04493EC2BB2082B00BEF58A /* SwiftfulThinkingConcurrencyUITestsLaunchTests.swift */; };
+		D04493FA2BB2096300BEF58A /* DoCatchTryThrowsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D04493F92BB2096300BEF58A /* DoCatchTryThrowsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,7 +36,6 @@
 /* Begin PBXFileReference section */
 		D04493CC2BB2082A00BEF58A /* SwiftfulThinkingConcurrency.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulThinkingConcurrency.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D04493CF2BB2082A00BEF58A /* SwiftfulThinkingConcurrencyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulThinkingConcurrencyApp.swift; sourceTree = "<group>"; };
-		D04493D12BB2082A00BEF58A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D04493D32BB2082B00BEF58A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D04493D62BB2082B00BEF58A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D04493DC2BB2082B00BEF58A /* SwiftfulThinkingConcurrencyTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftfulThinkingConcurrencyTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -44,6 +43,7 @@
 		D04493E62BB2082B00BEF58A /* SwiftfulThinkingConcurrencyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftfulThinkingConcurrencyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D04493EA2BB2082B00BEF58A /* SwiftfulThinkingConcurrencyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulThinkingConcurrencyUITests.swift; sourceTree = "<group>"; };
 		D04493EC2BB2082B00BEF58A /* SwiftfulThinkingConcurrencyUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulThinkingConcurrencyUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D04493F92BB2096300BEF58A /* DoCatchTryThrowsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoCatchTryThrowsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,7 +95,7 @@
 			isa = PBXGroup;
 			children = (
 				D04493CF2BB2082A00BEF58A /* SwiftfulThinkingConcurrencyApp.swift */,
-				D04493D12BB2082A00BEF58A /* ContentView.swift */,
+				D04493F92BB2096300BEF58A /* DoCatchTryThrowsBootcamp.swift */,
 				D04493D32BB2082B00BEF58A /* Assets.xcassets */,
 				D04493D52BB2082B00BEF58A /* Preview Content */,
 			);
@@ -257,7 +257,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D04493D22BB2082A00BEF58A /* ContentView.swift in Sources */,
+				D04493FA2BB2096300BEF58A /* DoCatchTryThrowsBootcamp.swift in Sources */,
 				D04493D02BB2082A00BEF58A /* SwiftfulThinkingConcurrencyApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
