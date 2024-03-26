@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftfulThinkingConcurrencyApp: App {
   var body: some Scene {
     WindowGroup {
-      DownloadImageAsync()
+      AsyncAwaitBootcamp()
     }
   }
 }
