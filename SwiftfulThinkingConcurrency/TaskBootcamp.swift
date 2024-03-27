@@ -95,7 +95,7 @@ struct TaskBootcamp: View {
   //        await viewModel.fetchImage2()
   //      }
   
-  
+  var test = "test"
   // TASK PRIORITY ORDER
   //      Task(priority: .high) {
   ////        try? await Task.sleep(nanoseconds: 2_000_000_000)
@@ -120,7 +120,7 @@ struct TaskBootcamp: View {
   
   //      Task(priority: .low) {
   //        print("userInitiated: \(Thread.current) : \(Task.currentPriority)")
-  //        
+  //
   //        Task.detached { //APPLE RECOMENDS NOT TO DO IT
   //          print("userInitiated2: \(Thread.current) : \(Task.currentPriority)")
   //        }
