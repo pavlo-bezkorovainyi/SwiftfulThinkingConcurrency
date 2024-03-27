@@ -95,7 +95,6 @@ struct TaskBootcamp: View {
   //        await viewModel.fetchImage2()
   //      }
   
-  var test = "test"
   // TASK PRIORITY ORDER
   //      Task(priority: .high) {
   ////        try? await Task.sleep(nanoseconds: 2_000_000_000)
