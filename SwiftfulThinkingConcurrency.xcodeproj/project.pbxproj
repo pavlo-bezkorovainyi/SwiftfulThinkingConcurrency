@@ -16,6 +16,7 @@
 		D04493FA2BB2096300BEF58A /* DoCatchTryThrowsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D04493F92BB2096300BEF58A /* DoCatchTryThrowsBootcamp.swift */; };
 		D04493FC2BB213DD00BEF58A /* DownloadImageAsync.swift in Sources */ = {isa = PBXBuildFile; fileRef = D04493FB2BB213DD00BEF58A /* DownloadImageAsync.swift */; };
 		D04493FE2BB21F4400BEF58A /* AsyncAwaitBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D04493FD2BB21F4400BEF58A /* AsyncAwaitBootcamp.swift */; };
+		D0B81CEE2BB4744000988CA6 /* AsyncLetBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0B81CED2BB4744000988CA6 /* AsyncLetBootcamp.swift */; };
 		D0BDD0B32BB2B54300D589A3 /* TaskBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0BDD0B22BB2B54300D589A3 /* TaskBootcamp.swift */; };
 /* End PBXBuildFile section */
 
@@ -49,6 +50,7 @@
 		D04493F92BB2096300BEF58A /* DoCatchTryThrowsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoCatchTryThrowsBootcamp.swift; sourceTree = "<group>"; };
 		D04493FB2BB213DD00BEF58A /* DownloadImageAsync.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadImageAsync.swift; sourceTree = "<group>"; };
 		D04493FD2BB21F4400BEF58A /* AsyncAwaitBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncAwaitBootcamp.swift; sourceTree = "<group>"; };
+		D0B81CED2BB4744000988CA6 /* AsyncLetBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncLetBootcamp.swift; sourceTree = "<group>"; };
 		D0BDD0B22BB2B54300D589A3 /* TaskBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -105,7 +107,7 @@
 				D04493FB2BB213DD00BEF58A /* DownloadImageAsync.swift */,
 				D04493FD2BB21F4400BEF58A /* AsyncAwaitBootcamp.swift */,
 				D0BDD0B22BB2B54300D589A3 /* TaskBootcamp.swift */,
-				D04493D32BB2082B00BEF58A /* Assets.xcassets */,
+				D0B81CED2BB4744000988CA6 /* AsyncLetBootcamp.swift */,
 				D04493D52BB2082B00BEF58A /* Preview Content */,
 			);
 			path = SwiftfulThinkingConcurrency;
@@ -114,6 +116,7 @@
 		D04493D52BB2082B00BEF58A /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
+				D04493D32BB2082B00BEF58A /* Assets.xcassets */,
 				D04493D62BB2082B00BEF58A /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
@@ -271,6 +274,7 @@
 				D04493FA2BB2096300BEF58A /* DoCatchTryThrowsBootcamp.swift in Sources */,
 				D04493FC2BB213DD00BEF58A /* DownloadImageAsync.swift in Sources */,
 				D04493D02BB2082A00BEF58A /* SwiftfulThinkingConcurrencyApp.swift in Sources */,
+				D0B81CEE2BB4744000988CA6 /* AsyncLetBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
