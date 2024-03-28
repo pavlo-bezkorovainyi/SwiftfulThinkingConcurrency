@@ -21,6 +21,7 @@
 		D0B81CF22BB49F5100988CA6 /* CheckedContinuationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0B81CF12BB49F5100988CA6 /* CheckedContinuationBootcamp.swift */; };
 		D0B81CF42BB4AF1600988CA6 /* StructClassActorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0B81CF32BB4AF1600988CA6 /* StructClassActorBootcamp.swift */; };
 		D0B81CF62BB56C1E00988CA6 /* ActorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0B81CF52BB56C1E00988CA6 /* ActorsBootcamp.swift */; };
+		D0B81CFA2BB5B35A00988CA6 /* GlobalActorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0B81CF92BB5B35A00988CA6 /* GlobalActorBootcamp.swift */; };
 		D0BDD0B32BB2B54300D589A3 /* TaskBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0BDD0B22BB2B54300D589A3 /* TaskBootcamp.swift */; };
 /* End PBXBuildFile section */
 
@@ -59,6 +60,7 @@
 		D0B81CF12BB49F5100988CA6 /* CheckedContinuationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckedContinuationBootcamp.swift; sourceTree = "<group>"; };
 		D0B81CF32BB4AF1600988CA6 /* StructClassActorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StructClassActorBootcamp.swift; sourceTree = "<group>"; };
 		D0B81CF52BB56C1E00988CA6 /* ActorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActorsBootcamp.swift; sourceTree = "<group>"; };
+		D0B81CF92BB5B35A00988CA6 /* GlobalActorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlobalActorBootcamp.swift; sourceTree = "<group>"; };
 		D0BDD0B22BB2B54300D589A3 /* TaskBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -120,6 +122,7 @@
 				D0B81CF12BB49F5100988CA6 /* CheckedContinuationBootcamp.swift */,
 				D0B81CF32BB4AF1600988CA6 /* StructClassActorBootcamp.swift */,
 				D0B81CF52BB56C1E00988CA6 /* ActorsBootcamp.swift */,
+				D0B81CF92BB5B35A00988CA6 /* GlobalActorBootcamp.swift */,
 				D04493D52BB2082B00BEF58A /* Preview Content */,
 			);
 			path = SwiftfulThinkingConcurrency;
@@ -290,6 +293,7 @@
 				D04493FC2BB213DD00BEF58A /* DownloadImageAsync.swift in Sources */,
 				D0B81CF02BB4935000988CA6 /* TaskGroupBootcamp.swift in Sources */,
 				D04493D02BB2082A00BEF58A /* SwiftfulThinkingConcurrencyApp.swift in Sources */,
+				D0B81CFA2BB5B35A00988CA6 /* GlobalActorBootcamp.swift in Sources */,
 				D0B81CEE2BB4744000988CA6 /* AsyncLetBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
